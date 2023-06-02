@@ -11,6 +11,6 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="emaild"><b>Enter Email</b></label>
+    <label for="emai-ld"><b>Enter Email</b></label>
     <input type="text"
  
